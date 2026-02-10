@@ -1,0 +1,16 @@
+# RepoST original dataset (3GB+ - download separately)
+RepoST/
+
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment config (copy .env.example and customize)
+.env
+
+# Full dataset (too large for git - download separately)
+
+# Keep subsets for testing
+!resource/subsets/
