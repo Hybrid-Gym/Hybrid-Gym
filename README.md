@@ -3,8 +3,10 @@
 # 🎨Hybrid-Gym: Training Coding Agents to Generalize Across Tasks
 
 <p align="left">
+  <a href="https://arxiv.org/abs/2602.16819v1"><img src="https://img.shields.io/badge/arXiv-2602.16819-b31b1b.svg"></a>
+  <a href="https://huggingface.co/hybrid-gym"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-md-dark.svg" alt="Models on HuggingFace" height="20" style="vertical-align: text-top;"></a>
+  <a href="https://hybrid-gym.github.io"><img src="https://img.shields.io/badge/Webpage-hybrid--gym.github.io-blue?logo=googlechrome&logoColor=white"></a>
   <a href="https://opensource.org/license/mit"><img src="https://img.shields.io/badge/license-MIT-blue"></a>
-  <a href="https://arxiv.org/abs"><img src="https://img.shields.io/badge/arXiv--b31b1b.svg"></a>
 </p>
 
 Code for "Hybrid-Gym: Training Coding Agents to Generalize Across Tasks".
