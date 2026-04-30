@@ -62,12 +62,12 @@ Please refer to the [OpenHands documentation](https://docs.all-hands.dev/usage/g
 If you find our paper or code useful, please cite the paper:
 
 ```
-@misc{hybrid-gym,
+@inproceedings{xie2026hybridgymtrainingcodingagents,
       title={Hybrid-Gym: Training Coding Agents to Generalize Across Tasks}, 
       author={Yiqing Xie and Emmy Liu and Gaokai Zhang and Nachiket Kotalwar and Shubham Gandhi and Sathwik Acharya and Xingyao Wang and Carolyn Rose and Graham Neubig and Daniel Fried},
       year={2026},
-      archivePrefix={arXiv},
-      primaryClass={cs.SE},
+      booktitle={Forty-third International Conference on Machine Learning},
+      pdf={https://arxiv.org/abs/2602.16819}, 
 }
 ```
 
