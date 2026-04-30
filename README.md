@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# 🎨Hybrid-Gym: Training Coding Agents to Generalize Across Tasks
+# 🎨Hybrid-Gym: Training Coding Agents to Generalize Across Tasks (ICML 2026)
 
 <p align="left">
   <a href="https://arxiv.org/abs/2602.16819v1"><img src="https://img.shields.io/badge/arXiv-2602.16819-b31b1b.svg"></a>
